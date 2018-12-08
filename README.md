@@ -1,1 +1,5 @@
-# Bootstrap-Portfolio
+# Bootstrap Portfolio
+
+### Technologies
+* HTML
+* Bootstrap
